@@ -1,0 +1,41 @@
+2020-08-04 13:46:07,909 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.boot.context.properties.ConfigurationPropertiesBindException: Error creating bean with name 'db1DataSource': Could not bind properties to 'HikariDataSource' : prefix=spring.datasource.db1, ignoreInvalidFields=false, ignoreUnknownFields=true; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'spring.datasource.db1' to javax.sql.DataSource
+2020-08-04 13:47:52,182 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 13:48:54,757 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 13:48:55,112 - 警告了
+2020-08-04 13:55:56,243 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 13:55:56,613 - 警告了
+2020-08-04 13:58:00,821 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 13:58:01,256 - 警告了
+2020-08-04 13:59:49,392 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 13:59:49,731 - 警告了
+2020-08-04 14:02:00,349 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 14:02:00,585 - 警告了122
+2020-08-04 14:02:00,710 - 警告了111
+2020-08-04 14:08:49,937 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 14:08:50,245 - 警告了22
+2020-08-04 14:08:50,336 - 警告了11
+2020-08-04 14:18:14,749 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 14:18:15,110 - 警告了22
+2020-08-04 14:26:33,797 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 14:26:34,051 - 警告了22
+2020-08-04 14:26:34,127 - 警告了11
+2020-08-04 15:09:38,024 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 15:09:38,274 - 警告了22
+2020-08-04 15:09:38,368 - 警告了11
+2020-08-04 16:34:16,398 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-04 16:34:16,633 - 警告了22
+2020-08-04 16:34:16,721 - 警告了11
+2020-08-04 19:46:54,723 - 警告了22
+2020-08-04 19:46:54,949 - 警告了11
+2020-08-04 19:51:14,094 - 警告了22
+2020-08-04 19:51:14,272 - 警告了11
+2020-08-04 19:51:40,303 - 警告了22
+2020-08-04 19:51:40,484 - 警告了11
+2020-08-04 19:53:20,927 - 警告了22
+2020-08-04 19:53:21,107 - 警告了11
+2020-08-04 19:53:39,592 - 警告了22
+2020-08-04 19:53:39,776 - 警告了22
+2020-08-04 19:53:39,817 - 警告了11
+2020-08-04 20:00:48,650 - 警告了22
+2020-08-04 20:00:48,874 - 警告了22
+2020-08-04 20:00:48,919 - 警告了11

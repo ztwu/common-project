@@ -1,0 +1,2 @@
+java -jar -Dloader.path=lib znzk-api-1.0-SNAPSHOT.jar
+mvn clean package

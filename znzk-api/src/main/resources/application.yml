@@ -1,0 +1,7 @@
+spring:
+  profiles:
+#    active: dynjdbc
+#    active: jdbc
+#    active: dynmybatis
+#    active: mybatis
+    active: jpa

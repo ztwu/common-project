@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-mysql-datahub" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jdbc-dyn-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jdbc-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa-dyn-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis-dyn-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-threadpool-znzk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/znzk-api" charset="UTF-8" />
+  </component>
+</project>

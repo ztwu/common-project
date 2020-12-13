@@ -1,0 +1,560 @@
+2020-09-11 08:49:17,303 - Starting StartApp on ztwu4 with PID 4264 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 08:49:17,303 - No active profile set, falling back to default profiles: default
+2020-09-11 08:49:20,053 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 08:49:20,240 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 08:49:20,740 - Starting service [Tomcat]
+2020-09-11 08:49:20,740 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 08:49:20,756 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 08:49:20,990 - Initializing Spring embedded WebApplicationContext
+2020-09-11 08:49:21,006 - Root WebApplicationContext: initialization completed in 3656 ms
+2020-09-11 08:49:21,693 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 08:49:21,990 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 08:49:22,021 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 08:49:22,021 - Started StartApp in 5.405 seconds (JVM running for 6.64)
+2020-09-11 08:49:22,068 - HikariPool-1 - Starting...
+2020-09-11 08:49:22,224 - HikariPool-1 - Start completed.
+2020-09-11 08:49:22,318 - HikariPool-2 - Starting...
+2020-09-11 08:49:22,349 - HikariPool-2 - Start completed.
+2020-09-11 08:49:22,349 - =====>>>>> logger()
+2020-09-11 08:51:10,104 - Starting StartApp on ztwu4 with PID 7672 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 08:51:10,104 - No active profile set, falling back to default profiles: default
+2020-09-11 08:51:11,919 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 08:51:12,039 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 08:51:12,364 - Starting service [Tomcat]
+2020-09-11 08:51:12,364 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 08:51:12,375 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 08:51:12,530 - Initializing Spring embedded WebApplicationContext
+2020-09-11 08:51:12,530 - Root WebApplicationContext: initialization completed in 2380 ms
+2020-09-11 08:51:13,020 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 08:51:13,240 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 08:51:13,259 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 08:51:13,270 - Started StartApp in 3.749 seconds (JVM running for 4.808)
+2020-09-11 08:51:13,289 - HikariPool-1 - Starting...
+2020-09-11 08:51:13,432 - HikariPool-1 - Start completed.
+2020-09-11 08:51:13,490 - HikariPool-2 - Starting...
+2020-09-11 08:51:13,535 - HikariPool-2 - Start completed.
+2020-09-11 08:51:13,535 - =====>>>>> logger()
+2020-09-11 09:02:25,672 - Starting StartApp on ztwu4 with PID 14068 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:02:25,672 - No active profile set, falling back to default profiles: default
+2020-09-11 09:02:27,967 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:02:28,067 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:02:28,457 - Starting service [Tomcat]
+2020-09-11 09:02:28,457 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:02:28,807 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:02:29,001 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:02:29,001 - Root WebApplicationContext: initialization completed in 3274 ms
+2020-09-11 09:02:29,537 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:02:29,787 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:02:29,807 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:02:29,807 - Started StartApp in 4.83 seconds (JVM running for 6.098)
+2020-09-11 09:02:29,842 - HikariPool-1 - Starting...
+2020-09-11 09:02:29,952 - HikariPool-1 - Start completed.
+2020-09-11 09:02:30,017 - HikariPool-2 - Starting...
+2020-09-11 09:02:30,057 - HikariPool-2 - Start completed.
+2020-09-11 09:02:30,057 - =====>>>>> logger()
+2020-09-11 09:05:36,652 - Starting StartApp on ztwu4 with PID 11124 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:05:36,652 - No active profile set, falling back to default profiles: default
+2020-09-11 09:05:39,116 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:05:39,247 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:05:39,727 - Starting service [Tomcat]
+2020-09-11 09:05:39,727 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:05:39,736 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:05:39,962 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:05:39,967 - Root WebApplicationContext: initialization completed in 3266 ms
+2020-09-11 09:05:40,537 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:05:40,816 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:05:40,837 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:05:40,837 - Started StartApp in 4.791 seconds (JVM running for 5.879)
+2020-09-11 09:05:40,867 - HikariPool-1 - Starting...
+2020-09-11 09:05:41,017 - HikariPool-1 - Start completed.
+2020-09-11 09:05:41,107 - HikariPool-2 - Starting...
+2020-09-11 09:05:41,142 - HikariPool-2 - Start completed.
+2020-09-11 09:05:41,147 - =====>>>>> logger()
+2020-09-11 09:09:14,130 - Starting StartApp on ztwu4 with PID 14028 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:09:14,130 - No active profile set, falling back to default profiles: default
+2020-09-11 09:09:16,680 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:09:16,965 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:09:17,425 - Starting service [Tomcat]
+2020-09-11 09:09:17,425 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:09:17,435 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:09:17,665 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:09:17,665 - Root WebApplicationContext: initialization completed in 3400 ms
+2020-09-11 09:09:18,290 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:09:18,565 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:09:18,585 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:09:18,585 - Started StartApp in 5.3 seconds (JVM running for 6.882)
+2020-09-11 09:09:18,655 - {dataSource-1} inited
+2020-09-11 09:12:18,354 - Starting StartApp on ztwu4 with PID 5192 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:12:18,354 - No active profile set, falling back to default profiles: default
+2020-09-11 09:12:20,423 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:12:20,573 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:12:20,883 - Starting service [Tomcat]
+2020-09-11 09:12:20,883 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:12:20,894 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:12:21,074 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:12:21,074 - Root WebApplicationContext: initialization completed in 2656 ms
+2020-09-11 09:12:21,624 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:12:21,854 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:12:21,873 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:12:21,873 - Started StartApp in 4.13 seconds (JVM running for 5.211)
+2020-09-11 09:12:21,923 - {dataSource-1} inited
+2020-09-11 09:12:22,094 - {dataSource-2} inited
+2020-09-11 09:12:22,124 - =====>>>>> logger()
+2020-09-11 09:13:00,473 - Starting StartApp on ztwu4 with PID 12500 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:13:00,478 - No active profile set, falling back to default profiles: default
+2020-09-11 09:13:02,453 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:13:02,519 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:13:02,879 - Starting service [Tomcat]
+2020-09-11 09:13:02,879 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:13:02,893 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:13:03,053 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:13:03,053 - Root WebApplicationContext: initialization completed in 2539 ms
+2020-09-11 09:13:03,594 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:13:03,823 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:13:03,843 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:13:03,854 - Started StartApp in 3.98 seconds (JVM running for 4.947)
+2020-09-11 09:13:03,909 - {dataSource-1} inited
+2020-09-11 09:13:04,078 - {dataSource-2} inited
+2020-09-11 09:13:04,104 - =====>>>>> logger()
+2020-09-11 09:15:42,738 - Starting StartApp on ztwu4 with PID 13912 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:15:42,738 - No active profile set, falling back to default profiles: default
+2020-09-11 09:15:44,573 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:15:44,693 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:15:45,004 - Starting service [Tomcat]
+2020-09-11 09:15:45,004 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:15:45,018 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:15:45,173 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:15:45,173 - Root WebApplicationContext: initialization completed in 2340 ms
+2020-09-11 09:15:45,683 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:15:45,933 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:15:45,954 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:15:45,963 - Started StartApp in 3.818 seconds (JVM running for 4.997)
+2020-09-11 09:15:46,014 - {dataSource-1} inited
+2020-09-11 09:15:46,194 - {dataSource-2} inited
+2020-09-11 09:15:46,244 - =====>>>>> logger()
+2020-09-11 09:32:45,158 - Starting StartApp on ztwu4 with PID 12164 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:32:45,163 - No active profile set, falling back to default profiles: default
+2020-09-11 09:32:52,723 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:32:52,783 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:32:53,394 - Starting service [Tomcat]
+2020-09-11 09:32:53,394 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:32:53,423 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:32:53,788 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:32:53,788 - Root WebApplicationContext: initialization completed in 8535 ms
+2020-09-11 09:32:55,288 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:32:56,173 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:32:56,238 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:32:56,248 - Started StartApp in 12.514 seconds (JVM running for 13.849)
+2020-09-11 09:32:56,488 - {dataSource-1} inited
+2020-09-11 09:32:56,959 - {dataSource-2} inited
+2020-09-11 09:32:56,983 - =====>>>>> logger()
+2020-09-11 09:35:22,749 - Starting StartApp on ztwu4 with PID 6604 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:35:22,749 - No active profile set, falling back to default profiles: default
+2020-09-11 09:35:28,586 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:35:28,664 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:35:29,148 - Starting service [Tomcat]
+2020-09-11 09:35:29,148 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:35:29,164 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:35:29,539 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:35:29,539 - Root WebApplicationContext: initialization completed in 6712 ms
+2020-09-11 09:35:30,978 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:35:31,766 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:35:31,815 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:35:31,821 - Started StartApp in 10.212 seconds (JVM running for 11.026)
+2020-09-11 09:35:32,025 - {dataSource-1} inited
+2020-09-11 09:35:32,450 - {dataSource-2} inited
+2020-09-11 09:35:32,473 - =====>>>>> logger()
+2020-09-11 09:44:04,753 - Starting StartApp on ztwu4 with PID 10864 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:44:04,753 - No active profile set, falling back to default profiles: default
+2020-09-11 09:44:08,523 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:44:08,574 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:44:09,028 - Starting service [Tomcat]
+2020-09-11 09:44:09,028 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:44:09,044 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:44:09,359 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:44:09,359 - Root WebApplicationContext: initialization completed in 4566 ms
+2020-09-11 09:44:10,488 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:44:11,184 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:44:11,234 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:44:11,239 - Started StartApp in 7.146 seconds (JVM running for 7.95)
+2020-09-11 09:44:11,449 - {dataSource-1} inited
+2020-09-11 09:44:11,984 - {dataSource-2} inited
+2020-09-11 09:44:12,020 - =====>>>>> logger()
+2020-09-11 09:44:31,783 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 09:44:31,783 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 09:44:31,814 - Completed initialization in 31 ms
+2020-09-11 09:45:36,084 - Starting StartApp on ztwu4 with PID 12936 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:45:36,084 - No active profile set, falling back to default profiles: default
+2020-09-11 09:45:40,129 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:45:40,169 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:45:40,519 - Starting service [Tomcat]
+2020-09-11 09:45:40,519 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:45:40,539 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:45:40,769 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:45:40,769 - Root WebApplicationContext: initialization completed in 4640 ms
+2020-09-11 09:45:41,539 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:45:41,974 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:45:42,009 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:45:42,020 - Started StartApp in 6.56 seconds (JVM running for 7.09)
+2020-09-11 09:45:42,149 - {dataSource-1} inited
+2020-09-11 09:45:42,459 - {dataSource-2} inited
+2020-09-11 09:45:42,499 - =====>>>>> logger()
+2020-09-11 09:53:50,329 - Starting App on ztwu4 with PID 11872 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 09:53:50,329 - No active profile set, falling back to default profiles: default
+2020-09-11 09:53:52,591 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 09:53:52,749 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:53:53,229 - Starting service [Tomcat]
+2020-09-11 09:53:53,229 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 09:53:53,239 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 09:53:53,454 - Initializing Spring embedded WebApplicationContext
+2020-09-11 09:53:53,454 - Root WebApplicationContext: initialization completed in 3036 ms
+2020-09-11 09:53:54,149 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 09:53:54,429 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 09:53:54,464 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 09:53:54,469 - Started App in 4.71 seconds (JVM running for 5.725)
+2020-09-11 09:54:52,458 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 09:54:52,458 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 09:54:52,472 - Completed initialization in 14 ms
+2020-09-11 09:54:52,562 - {dataSource-1} inited
+2020-09-11 10:13:35,878 - Starting App on ztwu4 with PID 8372 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:13:35,878 - No active profile set, falling back to default profiles: default
+2020-09-11 10:13:37,823 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:13:37,903 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:13:38,276 - Starting service [Tomcat]
+2020-09-11 10:13:38,276 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:13:38,283 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:13:38,443 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:13:38,443 - Root WebApplicationContext: initialization completed in 2460 ms
+2020-09-11 10:13:39,133 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:13:39,383 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:13:39,403 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:13:39,403 - Started App in 4.24 seconds (JVM running for 5.624)
+2020-09-11 10:13:55,855 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:13:55,855 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:13:55,864 - Completed initialization in 9 ms
+2020-09-11 10:13:55,931 - {dataSource-1} inited
+2020-09-11 10:14:31,553 - Starting App on ztwu4 with PID 3472 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:14:31,553 - No active profile set, falling back to default profiles: default
+2020-09-11 10:14:33,442 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:14:33,543 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:14:33,883 - Starting service [Tomcat]
+2020-09-11 10:14:33,883 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:14:33,898 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:14:34,073 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:14:34,073 - Root WebApplicationContext: initialization completed in 2450 ms
+2020-09-11 10:14:34,773 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:14:35,063 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:14:35,083 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:14:35,083 - Started App in 4.12 seconds (JVM running for 5.197)
+2020-09-11 10:14:36,027 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:14:36,027 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:14:36,033 - Completed initialization in 6 ms
+2020-09-11 10:16:54,878 - Starting App on ztwu4 with PID 8724 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:16:54,880 - No active profile set, falling back to default profiles: default
+2020-09-11 10:17:12,197 - Starting App on ztwu4 with PID 13648 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:17:12,202 - No active profile set, falling back to default profiles: default
+2020-09-11 10:17:51,159 - Starting App on ztwu4 with PID 13860 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:17:51,159 - No active profile set, falling back to default profiles: default
+2020-09-11 10:17:54,368 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:17:54,728 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:17:55,213 - Starting service [Tomcat]
+2020-09-11 10:17:55,218 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:17:55,233 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:17:55,448 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:17:55,448 - Root WebApplicationContext: initialization completed in 4019 ms
+2020-09-11 10:17:55,509 - Servlet statViewServlet was not registered (possibly already registered?)
+2020-09-11 10:17:55,509 - Filter webStatFilter was not registered (possibly already registered?)
+2020-09-11 10:17:56,209 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:17:56,603 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:17:56,639 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:17:56,639 - Started App in 6.481 seconds (JVM running for 8.509)
+2020-09-11 10:18:06,807 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:18:06,807 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:18:06,817 - Completed initialization in 10 ms
+2020-09-11 10:18:06,883 - {dataSource-1} inited
+2020-09-11 10:24:44,562 - Starting App on ztwu4 with PID 4900 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:24:44,578 - No active profile set, falling back to default profiles: default
+2020-09-11 10:24:46,494 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:24:46,567 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:24:46,896 - Starting service [Tomcat]
+2020-09-11 10:24:46,896 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:24:46,912 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:24:47,068 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:24:47,068 - Root WebApplicationContext: initialization completed in 2428 ms
+2020-09-11 10:24:47,115 - Servlet statViewServlet was not registered (possibly already registered?)
+2020-09-11 10:24:47,115 - Filter webStatFilter was not registered (possibly already registered?)
+2020-09-11 10:24:47,611 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:24:47,829 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:24:47,861 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:24:47,861 - Started App in 3.855 seconds (JVM running for 4.974)
+2020-09-11 10:24:58,039 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:24:58,039 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:24:58,047 - Completed initialization in 8 ms
+2020-09-11 10:24:58,114 - {dataSource-1} inited
+2020-09-11 10:33:50,567 - Starting App on ztwu4 with PID 4264 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:33:50,567 - No active profile set, falling back to default profiles: default
+2020-09-11 10:33:52,705 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:33:52,877 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:33:53,341 - Starting service [Tomcat]
+2020-09-11 10:33:53,341 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:33:53,341 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:33:53,545 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:33:53,545 - Root WebApplicationContext: initialization completed in 2884 ms
+2020-09-11 10:33:53,608 - Servlet statViewServlet was not registered (possibly already registered?)
+2020-09-11 10:33:53,608 - Filter webStatFilter was not registered (possibly already registered?)
+2020-09-11 10:33:54,213 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:33:54,541 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:33:54,557 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:33:54,572 - Started App in 4.595 seconds (JVM running for 5.605)
+2020-09-11 10:34:05,613 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:34:05,613 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:34:05,623 - Completed initialization in 10 ms
+2020-09-11 10:34:05,688 - {dataSource-1} inited
+2020-09-11 10:41:32,629 - Starting App on ztwu4 with PID 3468 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:41:32,629 - No active profile set, falling back to default profiles: default
+2020-09-11 10:41:34,837 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:41:34,869 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:41:35,213 - Starting service [Tomcat]
+2020-09-11 10:41:35,213 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:41:35,213 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:41:35,385 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:41:35,385 - Root WebApplicationContext: initialization completed in 2647 ms
+2020-09-11 10:41:35,432 - Servlet statViewServlet was not registered (possibly already registered?)
+2020-09-11 10:41:35,432 - Filter webStatFilter was not registered (possibly already registered?)
+2020-09-11 10:41:35,901 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:41:36,192 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:41:36,223 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:41:36,224 - Started App in 4.19 seconds (JVM running for 5.32)
+2020-09-11 10:41:46,403 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:41:46,403 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:41:46,419 - Completed initialization in 15 ms
+2020-09-11 10:41:46,481 - {dataSource-1} inited
+2020-09-11 10:47:58,063 - Starting App on ztwu4 with PID 2096 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:47:58,065 - No active profile set, falling back to default profiles: default
+2020-09-11 10:48:00,582 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:48:00,606 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:48:00,956 - Starting service [Tomcat]
+2020-09-11 10:48:00,956 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:48:00,964 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:48:01,122 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:48:01,123 - Root WebApplicationContext: initialization completed in 2933 ms
+2020-09-11 10:48:01,177 - Servlet statViewServlet was not registered (possibly already registered?)
+2020-09-11 10:48:01,180 - Filter webStatFilter was not registered (possibly already registered?)
+2020-09-11 10:48:01,716 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:48:02,017 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:48:02,038 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:48:02,040 - Started App in 4.677 seconds (JVM running for 5.653)
+2020-09-11 10:48:11,834 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:48:11,834 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:48:11,848 - Completed initialization in 13 ms
+2020-09-11 10:48:11,911 - {dataSource-1} inited
+2020-09-11 10:59:41,907 - Starting App on ztwu4 with PID 7804 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 10:59:41,907 - No active profile set, falling back to default profiles: default
+2020-09-11 10:59:45,400 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 10:59:45,680 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:59:46,193 - Starting service [Tomcat]
+2020-09-11 10:59:46,193 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 10:59:46,208 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 10:59:46,429 - Initializing Spring embedded WebApplicationContext
+2020-09-11 10:59:46,429 - Root WebApplicationContext: initialization completed in 4372 ms
+2020-09-11 10:59:47,218 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 10:59:47,588 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 10:59:47,615 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 10:59:47,619 - Started App in 6.641 seconds (JVM running for 8.261)
+2020-09-11 10:59:54,016 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 10:59:54,016 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 10:59:54,027 - Completed initialization in 11 ms
+2020-09-11 10:59:54,095 - {dataSource-1} inited
+2020-09-11 11:00:40,055 - Starting App on ztwu4 with PID 11312 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:00:40,055 - No active profile set, falling back to default profiles: default
+2020-09-11 11:00:42,362 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:00:42,388 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:00:42,721 - Starting service [Tomcat]
+2020-09-11 11:00:42,721 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:00:42,729 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:00:42,892 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:00:42,892 - Root WebApplicationContext: initialization completed in 2695 ms
+2020-09-11 11:00:43,392 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:00:43,710 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:00:43,752 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:00:43,755 - Started App in 4.415 seconds (JVM running for 5.486)
+2020-09-11 11:01:24,715 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:01:24,715 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:01:24,730 - Completed initialization in 15 ms
+2020-09-11 11:01:24,799 - {dataSource-1} inited
+2020-09-11 11:01:56,033 - Starting App on ztwu4 with PID 8316 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:01:56,033 - No active profile set, falling back to default profiles: default
+2020-09-11 11:01:58,133 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:01:58,323 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:01:58,818 - Starting service [Tomcat]
+2020-09-11 11:01:58,823 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:01:58,833 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:01:59,043 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:01:59,043 - Root WebApplicationContext: initialization completed in 2935 ms
+2020-09-11 11:02:00,113 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:02:00,573 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:02:00,603 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:02:00,603 - Started App in 5.22 seconds (JVM running for 6.27)
+2020-09-11 11:02:19,688 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:02:19,688 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:02:19,699 - Completed initialization in 11 ms
+2020-09-11 11:02:19,767 - {dataSource-1} inited
+2020-09-11 11:03:39,714 - Starting App on ztwu4 with PID 7848 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:03:39,714 - No active profile set, falling back to default profiles: default
+2020-09-11 11:03:42,870 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:03:43,127 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:03:43,634 - Starting service [Tomcat]
+2020-09-11 11:03:43,634 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:03:43,646 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:03:43,894 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:03:43,894 - Root WebApplicationContext: initialization completed in 3971 ms
+2020-09-11 11:03:44,664 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:03:44,979 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:03:45,004 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:03:45,004 - Started App in 6.205 seconds (JVM running for 7.469)
+2020-09-11 11:03:53,360 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:03:53,360 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:03:53,366 - Completed initialization in 6 ms
+2020-09-11 11:03:53,434 - {dataSource-1} inited
+2020-09-11 11:04:36,269 - Starting App on ztwu4 with PID 3292 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:04:36,271 - No active profile set, falling back to default profiles: default
+2020-09-11 11:04:38,654 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:04:38,804 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:04:39,299 - Starting service [Tomcat]
+2020-09-11 11:04:39,299 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:04:39,309 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:04:39,534 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:04:39,534 - Root WebApplicationContext: initialization completed in 3185 ms
+2020-09-11 11:04:40,229 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:04:40,554 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:04:40,574 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:04:40,584 - Started App in 4.926 seconds (JVM running for 6.147)
+2020-09-11 11:04:49,353 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:04:49,353 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:04:49,364 - Completed initialization in 11 ms
+2020-09-11 11:04:49,431 - {dataSource-1} inited
+2020-09-11 11:08:28,471 - Starting App on ztwu4 with PID 5388 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:08:28,473 - No active profile set, falling back to default profiles: default
+2020-09-11 11:09:03,638 - Starting App on ztwu4 with PID 9652 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:09:03,642 - No active profile set, falling back to default profiles: default
+2020-09-11 11:09:05,958 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:09:05,988 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:09:06,303 - Starting service [Tomcat]
+2020-09-11 11:09:06,303 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:09:06,313 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:09:06,467 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:09:06,467 - Root WebApplicationContext: initialization completed in 2621 ms
+2020-09-11 11:09:07,037 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:09:07,276 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:09:07,296 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:09:07,298 - Started App in 4.31 seconds (JVM running for 5.388)
+2020-09-11 11:09:07,396 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:09:07,396 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:09:07,403 - Completed initialization in 7 ms
+2020-09-11 11:10:17,472 - Starting App on ztwu4 with PID 9964 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:10:17,477 - No active profile set, falling back to default profiles: default
+2020-09-11 11:10:19,592 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:10:19,642 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:10:19,992 - Starting service [Tomcat]
+2020-09-11 11:10:19,992 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:10:20,002 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:10:20,187 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:10:20,187 - Root WebApplicationContext: initialization completed in 2635 ms
+2020-09-11 11:10:21,117 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:10:21,462 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:10:21,490 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:10:21,492 - Started App in 4.67 seconds (JVM running for 5.667)
+2020-09-11 11:10:27,347 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:10:27,347 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:10:27,357 - Completed initialization in 10 ms
+2020-09-11 11:12:59,787 - Starting App on ztwu4 with PID 12772 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:12:59,791 - No active profile set, falling back to default profiles: default
+2020-09-11 11:13:01,611 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:13:01,731 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:13:02,061 - Starting service [Tomcat]
+2020-09-11 11:13:02,061 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:13:02,071 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:13:02,231 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:13:02,231 - Root WebApplicationContext: initialization completed in 2322 ms
+2020-09-11 11:13:02,751 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:13:03,031 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:13:03,061 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:13:03,061 - Started App in 4.01 seconds (JVM running for 5.141)
+2020-09-11 11:13:28,886 - Starting App on ztwu4 with PID 3344 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:13:28,886 - No active profile set, falling back to default profiles: default
+2020-09-11 11:13:31,771 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:13:32,021 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:13:32,498 - Starting service [Tomcat]
+2020-09-11 11:13:32,498 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:13:32,506 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:13:32,716 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:13:32,716 - Root WebApplicationContext: initialization completed in 3680 ms
+2020-09-11 11:13:33,371 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:13:33,671 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:13:33,699 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:13:33,701 - Started App in 5.626 seconds (JVM running for 7.047)
+2020-09-11 11:13:38,410 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:13:38,410 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:13:38,420 - Completed initialization in 10 ms
+2020-09-11 11:14:56,746 - Starting App on ztwu4 with PID 10796 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:14:56,751 - No active profile set, falling back to default profiles: default
+2020-09-11 11:14:59,106 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:14:59,251 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:14:59,716 - Starting service [Tomcat]
+2020-09-11 11:14:59,716 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:14:59,721 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:14:59,926 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:14:59,926 - Root WebApplicationContext: initialization completed in 3080 ms
+2020-09-11 11:15:00,596 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:15:00,939 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:15:00,961 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:15:00,961 - Started App in 4.94 seconds (JVM running for 6.182)
+2020-09-11 11:15:11,155 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:15:11,155 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:15:11,166 - Completed initialization in 11 ms
+2020-09-11 11:15:11,248 - {dataSource-1} inited
+2020-09-11 11:40:55,456 - Starting App on ztwu4 with PID 6696 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:40:55,456 - No active profile set, falling back to default profiles: default
+2020-09-11 11:40:57,467 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:40:57,557 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:40:57,896 - Starting service [Tomcat]
+2020-09-11 11:40:57,896 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:40:57,901 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:40:58,061 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:40:58,061 - Root WebApplicationContext: initialization completed in 2499 ms
+2020-09-11 11:40:58,582 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:40:58,882 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:40:58,907 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:40:58,912 - Started App in 4.146 seconds (JVM running for 5.264)
+2020-09-11 11:41:09,382 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-11 11:41:09,382 - Initializing Servlet 'dispatcherServlet'
+2020-09-11 11:41:09,398 - Completed initialization in 16 ms
+2020-09-11 11:41:09,465 - {dataSource-1} inited
+2020-09-11 11:55:25,222 - Starting App on ztwu4 with PID 2004 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:55:25,222 - No active profile set, falling back to default profiles: default
+2020-09-11 11:55:27,137 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:55:27,206 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:55:27,582 - Starting service [Tomcat]
+2020-09-11 11:55:27,582 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:55:27,594 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:55:27,787 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:55:27,787 - Root WebApplicationContext: initialization completed in 2450 ms
+2020-09-11 11:55:27,912 - Stopping service [Tomcat]
+2020-09-11 11:59:50,294 - Starting StartApp on ztwu4 with PID 2656 (D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\test-classes started by ztwu4 in D:\data\idea\common-project)
+2020-09-11 11:59:50,299 - No active profile set, falling back to default profiles: default
+2020-09-11 11:59:55,524 - Tomcat initialized with port(s): 8080 (http)
+2020-09-11 11:59:55,569 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:59:56,074 - Starting service [Tomcat]
+2020-09-11 11:59:56,074 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-09-11 11:59:56,109 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\soft\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pan Iflytek;D:\soft\jdk\jdk8\jdk\jdk1.8.0_221\bin;D:\soft\anaconda\anaconda3;D:\soft\anaconda\anaconda3\Scripts;D:\soft\svn\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\spark\spark-2.4.4-bin-hadoop2.7\bin;D:\soft\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;D:\soft\git\Git\cmd;D:\soft\mailjm\GnuPG\pub;D:\soft\scala\scala2.11\bin;D:\soft\tesseract-ocr;;D:\soft\vscode\Microsoft VS Code\bin;C:\Users\ztwu4\AppData\Local\Microsoft\WindowsApps;;.]
+2020-09-11 11:59:56,399 - Initializing Spring embedded WebApplicationContext
+2020-09-11 11:59:56,399 - Root WebApplicationContext: initialization completed in 6050 ms
+2020-09-11 11:59:57,424 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-11 11:59:58,039 - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-11 11:59:58,089 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-11 11:59:58,089 - Started StartApp in 8.405 seconds (JVM running for 8.952)
+2020-09-11 11:59:58,174 - HikariPool-1 - Starting...
+2020-09-11 11:59:58,524 - HikariPool-1 - Start completed.
+2020-09-11 11:59:58,669 - HikariPool-2 - Starting...
+2020-09-11 11:59:58,724 - HikariPool-2 - Start completed.
+2020-09-11 11:59:58,734 - =====>>>>> logger()

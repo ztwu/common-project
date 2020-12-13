@@ -1,0 +1,30 @@
+spring:
+  datasource:
+    db1:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://172.31.100.18:3306/tp_manage?useSSL=FALSE&serverTimezone=UTC
+      username: root
+      password: iflytek
+    db2:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://172.31.100.18:3306/artifi_confirm?useSSL=FALSE&serverTimezone=UTC
+      username: root
+      password: iflytek
+
+# 默认配置
+# 多数据源需要自定义数据源配置
+#mybatis:
+#  mapperLocations: classpath:mapper/*.xml
+
+#分页
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count==countSql
+  page-size-zero: true
+
+#日志
+logging:
+  level:
+    root: debug

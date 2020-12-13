@@ -1,0 +1,111 @@
+2020-08-05 09:18:41,740 - 错误了22
+2020-08-05 09:18:42,006 - 错误了22
+2020-08-05 09:18:42,068 - 错误了11
+2020-08-05 09:22:50,569 - 错误了22
+2020-08-05 09:22:50,757 - 错误了22
+2020-08-05 09:22:50,827 - 错误了11
+2020-08-05 09:27:51,928 - Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+2020-08-05 09:27:52,002 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'spring.datasource.db1' to javax.sql.DataSource:
+
+    Property: spring.datasource.db1.driver-class-name
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: class path resource [application.yml]:4:26
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2020-08-05 09:31:56,873 - Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+2020-08-05 09:31:56,908 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'spring.datasource.db1' to javax.sql.DataSource:
+
+    Property: spring.datasource.db1.driver-class-name
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: class path resource [application.yml]:4:26
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2020-08-05 09:32:23,404 - 错误了22
+2020-08-05 09:32:23,609 - 错误了22
+2020-08-05 09:32:23,672 - 错误了11
+2020-08-05 09:56:41,807 - 错误了22
+2020-08-05 09:56:42,032 - 错误了22
+2020-08-05 09:56:42,071 - 错误了11
+2020-08-05 09:56:56,507 - 错误了22
+2020-08-05 09:56:56,716 - 错误了22
+2020-08-05 09:56:56,761 - 错误了11
+2020-08-05 10:15:40,079 - 错误了22
+2020-08-05 10:15:40,251 - 错误了22
+2020-08-05 10:15:40,314 - 错误了11
+2020-08-05 10:16:40,818 - 错误了22
+2020-08-05 10:16:40,991 - 错误了22
+2020-08-05 10:16:41,038 - 错误了11
+2020-08-05 10:55:36,562 - 错误了22
+2020-08-05 10:55:36,750 - 错误了22
+2020-08-05 10:55:36,812 - 错误了11
+2020-08-05 10:56:23,823 - 错误了22
+2020-08-05 15:42:31,851 - Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.iflytek.knowledge.tools.StartApp.main(StartApp.java:19)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005)
+	... 12 common frames omitted
+2020-08-05 15:42:31,883 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2020-08-05 15:42:50,653 - 错误了22
+2020-08-05 15:42:50,865 - 错误了22
+2020-08-05 15:42:50,928 - 错误了11
+2020-08-05 15:45:40,415 - 错误了22

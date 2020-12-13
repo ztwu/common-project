@@ -1,0 +1,17 @@
+canal:
+  service:
+    host: 192.168.4.5
+    port: 11111
+spring:
+  datasource:
+    db1:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://172.31.100.18:3306/tp_manage?useSSL=FALSE&serverTimezone=UTC
+      username: root
+      password: iflytek
+    db2:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://172.31.100.18:3306/artifi_confirm?useSSL=FALSE&serverTimezone=UTC
+      username: root
+      password: iflytek
+

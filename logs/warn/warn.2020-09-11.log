@@ -1,0 +1,128 @@
+2020-09-11 08:49:22,037 - 警告了22
+2020-09-11 08:49:22,286 - 警告了22
+2020-09-11 08:49:22,349 - 警告了11
+2020-09-11 08:51:13,276 - 警告了22
+2020-09-11 08:51:13,470 - 警告了22
+2020-09-11 08:51:13,535 - 警告了11
+2020-09-11 09:02:29,822 - 警告了22
+2020-09-11 09:02:30,003 - 警告了22
+2020-09-11 09:02:30,057 - 警告了11
+2020-09-11 09:05:40,847 - 警告了22
+2020-09-11 09:05:41,077 - 警告了22
+2020-09-11 09:05:41,147 - 警告了11
+2020-09-11 09:09:18,605 - 警告了22
+2020-09-11 09:12:21,883 - 警告了22
+2020-09-11 09:12:22,074 - 警告了22
+2020-09-11 09:12:22,124 - 警告了11
+2020-09-11 09:13:03,863 - 警告了22
+2020-09-11 09:13:04,054 - 警告了22
+2020-09-11 09:13:04,104 - 警告了11
+2020-09-11 09:15:45,973 - 警告了22
+2020-09-11 09:15:46,163 - 警告了22
+2020-09-11 09:15:46,244 - 警告了11
+2020-09-11 09:32:56,283 - 警告了22
+2020-09-11 09:32:56,883 - 警告了22
+2020-09-11 09:32:56,983 - 警告了11
+2020-09-11 09:35:31,849 - 警告了22
+2020-09-11 09:35:32,382 - 警告了22
+2020-09-11 09:35:32,473 - 警告了11
+2020-09-11 09:44:11,259 - 警告了22
+2020-09-11 09:44:11,905 - 警告了22
+2020-09-11 09:44:12,020 - 警告了11
+2020-09-11 09:45:42,039 - 警告了22
+2020-09-11 09:45:42,405 - 警告了22
+2020-09-11 09:45:42,499 - 警告了11
+2020-09-11 09:54:52,512 - 警告了22
+2020-09-11 09:55:37,958 - 警告了22
+2020-09-11 09:59:11,600 - 警告了22
+2020-09-11 09:59:37,934 - 警告了22
+2020-09-11 10:13:55,891 - 警告了22
+2020-09-11 10:16:56,356 - Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure] from ClassLoader [sun.misc.Launcher$AppClassLoader@18b4aac2]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:686)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:583)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:568)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:626)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1688)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:738)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:679)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:647)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1518)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:507)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:477)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:590)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1226)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:905)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:891)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:877)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:826)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.iflytek.knowledge.tools.App.main(App.java:9)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/autoconfigure/jdbc/metadata/DataSourcePoolMetadataProvider
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.getDeclaredMethods(Class.java:1975)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:668)
+	... 21 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvider
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 25 common frames omitted
+2020-09-11 10:17:13,204 - Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure] from ClassLoader [sun.misc.Launcher$AppClassLoader@18b4aac2]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:686)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:583)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:568)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:626)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1688)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:738)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:679)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:647)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1518)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:507)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:477)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:590)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1226)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:905)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:891)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:877)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:826)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.iflytek.knowledge.tools.App.main(App.java:9)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/autoconfigure/jdbc/metadata/DataSourcePoolMetadataProvider
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.getDeclaredMethods(Class.java:1975)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:668)
+	... 21 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvider
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 25 common frames omitted
+2020-09-11 10:18:06,842 - 警告了22
+2020-09-11 10:24:58,073 - 警告了22
+2020-09-11 10:34:05,651 - 警告了22
+2020-09-11 10:41:46,443 - 警告了22
+2020-09-11 10:48:11,871 - 警告了22
+2020-09-11 10:59:54,054 - 警告了22
+2020-09-11 11:01:24,754 - 警告了22
+2020-09-11 11:02:19,726 - 警告了22
+2020-09-11 11:03:53,394 - 警告了22
+2020-09-11 11:04:49,390 - 警告了22
+2020-09-11 11:15:11,196 - 警告了22
+2020-09-11 11:16:57,828 - 警告了22
+2020-09-11 11:41:09,427 - 警告了22
+2020-09-11 11:55:27,912 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'test2Service'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testService': Unsatisfied dependency expressed through field 'groupMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupMapper' defined in file [D:\data\idea\common-project\springboot-mybatis-dyn-znzk\target\classes\com\iflytek\knowledge\tools\dao\GroupMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/iflytek/knowledge/tools/util/MybatisConfig.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dataSource' defined in class path resource [com/iflytek/knowledge/tools/util/MybatisConfig.class]: Unsatisfied dependency expressed through method 'dataSource' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'db1DataSource' defined in class path resource [com/iflytek/knowledge/tools/util/MybatisConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.sql.DataSource]: Factory method 'db1DataSource' threw exception; nested exception is java.lang.IllegalStateException: dbType not support : null, url null
+2020-09-11 11:59:58,119 - 警告了22
+2020-09-11 11:59:58,609 - 警告了22
+2020-09-11 11:59:58,734 - 警告了11

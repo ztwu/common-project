@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-jpa-znzk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="canal-mysql-datahub" target="1.8" />
+      <module name="common-project" target="1.8" />
+      <module name="db-proxy" target="1.8" />
+      <module name="springboot-jdbc-dyn-znzk" target="1.8" />
+      <module name="springboot-jdbc-znzk" target="1.8" />
+      <module name="springboot-jpa-dyn-znzk" target="1.8" />
+      <module name="springboot-jpa-znzk" target="1.8" />
+      <module name="springboot-mybatis-dyn-znzk" target="1.8" />
+      <module name="springboot-mybatis-znzk" target="1.8" />
+      <module name="springboot-quartz-znzk" target="1.8" />
+      <module name="springboot-threadpool-znzk" target="8" />
+      <module name="znzk-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="canal-mysql-datahub" options="-parameters" />
+      <module name="db-proxy" options="-parameters" />
+      <module name="springboot-jdbc-dyn-znzk" options="-parameters" />
+      <module name="springboot-jdbc-znzk" options="-parameters" />
+      <module name="springboot-jpa-dyn-znzk" options="-parameters" />
+      <module name="springboot-jpa-znzk" options="-parameters" />
+      <module name="springboot-mybatis-dyn-znzk" options="-parameters" />
+      <module name="springboot-mybatis-znzk" options="-parameters" />
+      <module name="springboot-quartz-znzk" options="-parameters" />
+      <module name="springboot-threadpool-znzk" options="-parameters" />
+      <module name="znzk-api" options="-parameters" />
+    </option>
+  </component>
+</project>
